@@ -1,1 +1,1 @@
-This is react native chatgpt project for mobile computing. 
+This is react native chatgpt project for mobile computing.
